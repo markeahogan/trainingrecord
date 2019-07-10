@@ -1,2 +1,0 @@
-# trainingrecord
-Training Record
