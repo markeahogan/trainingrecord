@@ -32,13 +32,21 @@ Its 98% language and paradigm agnostic with a 2% swing to object oriented and c#
 https://www.amazon.co.uk/Clean-Architecture-Craftsmans-Software-Structure/dp/0134494164
 It focuses on how to split your code into logical dlls/processes/services using layered, domain and feature led approaches.
 Encourages use frameworks to make your life easier but stresses the importance of separating _your_ code (especially business logic) from frameworks.
+
 It make selective arguments against dogmatic YAGNI (which fits with my interpretation that it applies more to features than architecture and a little anti-YAGNI for clean code and architecture's sake is expected).
 It makes a argument against dogmatic DRY, suggesting that 2 similar things in different domains that may look like they violate DRY don't count as DRY doesn't apply across domains (they change at different times for different reasons and have no logical dependency on one another)
+
 Applies SOLID principles to software components with the aim being to create plugin architecture
 Code is mostly Java but the thought process is applicable to any OO language.
+
 Encourages a layered approach where the core logic operates without knowing implementor details beyond its domain (using interfaces and dependency inversion for ui, data persistence, input, output etc.).
+
 The outermost layer ends up being the a "dirty" Main function responsible for constructing instances of concrete implementations before handing over to the clean core logic, I think it can be interpreted as Main being a _code is data_ style app configuration.
+
 Chapter 34 is "The Missing Chapter" by Simon Brown, a more intense (less jovial) chapter on various techniques/methods for partitioning code, which also promotes a _private by default_ approach to all software components (internal in C#), this chapter felt like a slog to me because it over explains trivial differences between near identical techniques.
+
 The book ends at 65%, last 35% is index, code snippets and anecdotes (quite enjoyable including the origin of 'Uncle Bob', some are familiar if you read clean coder).
+
 _Clean Code_ is still his best book I've read
+
 *8 thumbs up*
