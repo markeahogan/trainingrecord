@@ -50,3 +50,10 @@ The book ends at 65%, last 35% is index, code snippets and anecdotes (quite enjo
 _Clean Code_ is still his best book I've read
 
 *8 thumbs up*
+
+# React: Getting Started 20/07/19
+https://app.pluralsight.com/library/courses/react-js-getting-started
+
+Good explaination of what all the fuss regarding React is about. It's got 2 examples you'll reproduce in an online editro at jscomplete/playgraound which is a decent way to get started as you dont need to setup your environment. He says at the start and it's you'll need to pause a lot, he does talk fast. He assumes you're a web developer who is now learning React, you need to know javascript before starting this as it says in the prerequisites but I also found myself needing to more about HTML so I would recommend diong HTML and CSS courses before this one
+
+*8 thumbs up*
