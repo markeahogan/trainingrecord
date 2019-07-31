@@ -57,3 +57,11 @@ https://app.pluralsight.com/library/courses/react-js-getting-started
 Good explaination of what all the fuss regarding React is about. It's got 2 examples you'll reproduce in an online editro at jscomplete/playgraound which is a decent way to get started as you dont need to setup your environment. He says at the start and it's you'll need to pause a lot, he does talk fast. He assumes you're a web developer who is now learning React, you need to know javascript before starting this as it says in the prerequisites but I also found myself needing to more about HTML so I would recommend diong HTML and CSS courses before this one
 
 *8 thumbs up*
+
+# Finished Creativity Inc by Ed Catmull 31/07/19
+https://www.amazon.co.uk/dp/B00GUOEMA4/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1
+
+It goes into a lot of detail about how to manage a company in a way that encourages honesty, creativity and mitigates fear of failure (how to build a Pixar). He goes through his principles, explains them with metaphors, then rewards your reading efforts with a story about Pixars struggles related to that principle. The stories end up in roughly chronological order so you get a good sense of the history of the company from the 1980s to 2010s. All his principles are good and deeply true but require a decent chunk of courage to apply constantly.
+It ends with an homage to Steve Jobs and a summary of the key principles.
+
+*9 thumbs up*
