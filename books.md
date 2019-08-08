@@ -65,3 +65,10 @@ It goes into a lot of detail about how to manage a company in a way that encoura
 It ends with an homage to Steve Jobs and a summary of the key principles.
 
 *9 thumbs up*
+
+HTML5 Fundamentals
+
+
+Decent course which demystifies the modern features of web apps. Covers input validation, video and audio playback and drag and drop file uploading, as well as a detailed look at canvas. It starts with an html focus then towards the end is almost entirely Javascript. The main takeaway I got from it is that some of the parts of web dev that I expected to be complex are actually already built in to browsers ready to use, looking forward to an opportunity to try them out.
+
+*7 thumbs up*
