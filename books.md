@@ -58,7 +58,7 @@ Good explaination of what all the fuss regarding React is about. It's got 2 exam
 
 *8 thumbs up*
 
-# Finished Creativity Inc by Ed Catmull 31/07/19
+# Creativity Inc by Ed Catmull 31/07/19
 https://www.amazon.co.uk/dp/B00GUOEMA4/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1
 
 It goes into a lot of detail about how to manage a company in a way that encourages honesty, creativity and mitigates fear of failure (how to build a Pixar). He goes through his principles, explains them with metaphors, then rewards your reading efforts with a story about Pixars struggles related to that principle. The stories end up in roughly chronological order so you get a good sense of the history of the company from the 1980s to 2010s. All his principles are good and deeply true but require a decent chunk of courage to apply constantly.
@@ -66,9 +66,9 @@ It ends with an homage to Steve Jobs and a summary of the key principles.
 
 *9 thumbs up*
 
-HTML5 Fundamentals
+# HTML5 Fundamentals 05/08/19
+https://www.pluralsight.com/courses/html5-fundamentals-2e
 
-
-Decent course which demystifies the modern features of web apps. Covers input validation, video and audio playback and drag and drop file uploading, as well as a detailed look at canvas. It starts with an html focus then towards the end is almost entirely Javascript. The main takeaway I got from it is that some of the parts of web dev that I expected to be complex are actually already built in to browsers ready to use, looking forward to an opportunity to try them out.
+Decent course which, for me, demystified the modern features of some web apps. Covers finding parts of the DOM, input validation built into the browser, video and audio playback and drag and drop file uploading, as well as a detailed look at canvas for 2D drawing. It starts with an html focus for about 20% then the last 80% is almost entirely Javascript code acting on response to html. The main takeaway I got from it is that some parts of web dev that I expected to be time consuming are actually already built in to browsers ready to use.
 
 *7 thumbs up*
