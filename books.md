@@ -80,3 +80,10 @@ https://www.pluralsight.com/courses/html5-fundamentals-2e
 Decent course which, for me, demystified the modern features of some web apps. Covers finding parts of the DOM, input validation built into the browser, video and audio playback and drag and drop file uploading, as well as a detailed look at canvas for 2D drawing. It starts with an html focus for about 20% then the last 80% is almost entirely Javascript code acting on response to html. The main takeaway I got from it is that some parts of web dev that I expected to be time consuming are actually already built in to browsers ready to use.
 
 *7 thumbs up*
+
+# Introduction to CSS
+https://www.pluralsight.com/courses/css-intro
+
+Covers css history, selectors, fonts, boxes and layouts. Its a thorough introduction and as css is entirely new to me it had the most insight of the recent courses I've been through. I was surprised and disappointed when it ended as the last chapter on layouts seemed quite haphazard and I was expecting a "heres the right way to do it" chapter to come next. Overall though for an introduction it definitely delivered 
+
+*8 thumbs up*
