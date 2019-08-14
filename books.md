@@ -84,6 +84,13 @@ Decent course which, for me, demystified the modern features of some web apps. C
 # Introduction to CSS
 https://www.pluralsight.com/courses/css-intro
 
-Covers css history, selectors, fonts, boxes and layouts. Its a thorough introduction and as css is entirely new to me it had the most insight of the recent courses I've been through. I was surprised and disappointed when it ended as the last chapter on layouts seemed quite haphazard and I was expecting a "heres the right way to do it" chapter to come next. Overall though for an introduction it definitely delivered 
+Covers css history, selectors, fonts, boxes and layouts. Its a thorough introduction and as css is entirely new to me it had the most insight of the recent courses I've been through. I was surprised and disappointed when it ended as the last chapter on layouts seemed quite haphazard and I was expecting a "heres the right way to do it" chapter to come next. Overall though for an introduction it definitely delivered. The 4:3 aspect ratio was distracting.
+
+*8 thumbs up*
+
+# CSS Positioning 
+https://www.pluralsight.com/courses/css-positioning-1834
+
+Pretty short one, 50% was covered by Introduction to CSS, the other 50% had plenty of useful information about how centering works.
 
 *8 thumbs up*
