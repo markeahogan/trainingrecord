@@ -94,3 +94,10 @@ https://www.pluralsight.com/courses/css-positioning-1834
 Pretty short one, 50% was covered by Introduction to CSS, the other 50% had plenty of useful information about how centering works.
 
 *8 thumbs up*
+
+# Play by Play: HTML, CSS, and JavaScript with Lea Verou
+https://www.pluralsight.com/courses/play-by-play-lea-verou
+
+A bit old (2014) but very interesting to see someone using the equivalent of ES2015 classes using IIFEs amd closures, the resulting code looks very similar (she also implemented a mini JQuery). It was interesting and sometimes frustrating to watch but I learnt a decent chunk from it and would recommend it for now, though I'd keep an eye out for a newer equivalent.
+
+*7 thumbs up*
