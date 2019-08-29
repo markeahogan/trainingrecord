@@ -103,6 +103,7 @@ A bit old (2014) but very interesting to see someone using the equivalent of ES2
 *7 thumbs up*
 
 # Reintroduction to Javascript 
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/A_re-introduction_to_JavaScript
 
 As you'd expect its an extended article that covers the language from absolute basics up to the harder to grasp concepts that relate to using the basics.
 
@@ -111,3 +112,10 @@ Much is covered in previous books and in far greater detail but this one especia
 It was well worth reading just for _new_
 
 *8 thumbs up*
+
+# React Fundamentals
+https://www.pluralsight.com/courses/react-fundamentals-update
+
+Very good React course, it starts with the basics of React function and class components and builds up with additional libraries. It touches on Bootstrap and gives a decent explaination of React Router and a very good explaination of Redux and React-redux. It helped to understand that Redux is a library for observable state and React-redux builds on that by allowing state to be mapped to props automatically.
+
+*9 thumbs up*
