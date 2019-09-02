@@ -119,3 +119,16 @@ https://www.pluralsight.com/courses/react-fundamentals-update
 Very good React course, it starts with the basics of React function and class components and builds up with additional libraries. It touches on Bootstrap and gives a decent explaination of React Router and a very good explaination of Redux and React-redux. It helped to understand that Redux is a library for observable state and React-redux builds on that by allowing state to be mapped to props automatically.
 
 *9 thumbs up*
+
+# Leadership and the One Minute Manager
+
+Very entertaining, it teaches it's concept of Situational Leadership as an extended conversation between a few characters. It starts by outlining  four leadership styles; *directing, coaching, supporting and delegating*. It follows by describing four levels of development and what leadership style to use at each level of development, e.g. For someone inexperienced a directing style should be used, delegation should be used for experienced people. It then describes how to work with a person to agree their development level and what leadership style should be used for the required goal, and to maintain nn honest and fluid leadership style.
+
+The book labels/groups people by their development, which is their competence and commitment. While it's overly simple I can see how these two qualities encompass a good chunk of the information a manager needs to perform, and they are quite measurable.
+
+I was very engaged with its teachings and I hope I can use these in my work, by agreeing what support someone expects from me and agree to how much direction is needed very early on and following through on this, fluidly adapting as agreed.
+
+*9 thumbs up*
+
+
+
