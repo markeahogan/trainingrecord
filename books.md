@@ -130,5 +130,7 @@ I was very engaged with its teachings and I hope I can use these in my work, by 
 
 *9 thumbs up*
 
+# The Mythical Man-Month
 
+3,4,5 dont apply to modern dev
 
