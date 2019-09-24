@@ -132,5 +132,6 @@ I was very engaged with its teachings and I hope I can use these in my work, by 
 
 # The Mythical Man-Month
 
-3,4,5 dont apply to modern dev
+3-13 dont apply to modern dev
+14 status-review meeting before problem-action, 
 
