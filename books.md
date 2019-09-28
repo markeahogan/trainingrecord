@@ -130,8 +130,11 @@ I was very engaged with its teachings and I hope I can use these in my work, by 
 
 *9 thumbs up*
 
-# The Mythical Man-Month
+# The Mythical Man-Month by Frederick Brooks
 
-3-13 dont apply to modern dev
-14 status-review meeting before problem-action, 
+The book is presented as a series of 19 essays about managing software teams and construction. The original edition was published in 1975 the majority of the book is hilariously dated, many of the essays cover topics that have been made obsolete by modern techniques. There are however 6 essays that are applicable the development today 1, 2, 11, 14, 18 and 19.
+These contain insights into why adding more developers to a late project makes it slower, making prototypes, day to day scheduling handling setbacks followed by a bullet pointed summary and reflection of all chapters.
+I would recommend it but only reading those 6 essays, the others are only interesting for historical reasons.
+
+*7 thumbs up*
 
