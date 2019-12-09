@@ -139,3 +139,15 @@ I would recommend it but only reading those 6 essays, the others are only intere
 *7 thumbs up*
 
 # Code Complete by Steve McConnell 07/12/19
+
+Book touches practically all aspects of 'code construction'; design architecture, patterns, composition, inheritance, complexity. It's littered with humourous quotes and research data to back up it's teachings.
+
+It goes into great detail on core details (stuff I thought so small it wouldn't have been possible to have a strong opinion on) e.g. chapters dedicated to ints, bools if/else, enums, consts.
+
+The final few chapters echo pragmatic programmer, clean code and clean coder, they explain a bit of programmer psychology and how it affects code, followed by the traits and habits of the best coders and a required reading list for working at his company.
+
+I can guarantee that every developer will learn something from this book, simply because there is a mountain of information in its thousand pages, but only about 10% to 20% of it composes the essential facts.
+
+I suggest reading it in order, but read the first paragraph of each chapter to decide if you want to continue with it. Every chapter ends with a bullet point summary so if you dont choose immediately to read it read the summary (and re-evaluate) before moving on.
+
+*8 thumbs up*
