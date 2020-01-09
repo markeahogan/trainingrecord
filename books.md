@@ -151,3 +151,14 @@ I can guarantee that every developer will learn something from this book, simply
 I suggest reading it in order, but read the first paragraph of each chapter to decide if you want to continue with it. Every chapter ends with a bullet point summary so if you dont choose immediately to read it read the summary (and re-evaluate) before moving on.
 
 *8 thumbs up*
+
+# Full Stack Open 2019 by University of Helsinki 08/01/2020
+https://fullstackopen.com/en/
+
+A comprehensive but certainly not exhaustive course on full stack web development. Its 145 exercises spread over 9 parts cover Javascript (but expects a little JS knowledge already), React, Redux, Node.js, Express servers, MongoDB, CSS and GraphQL in roughly that order. By the end of the course I'd learned plenty but felt it had barely scratched the surface of the subject, given how wide and fast moving the subject of web development is. 
+
+It took me 125 days start to finish and about 117 hours, there's an exam but it's only available to University students/persons with a Finnish social security number, you get a certificate once you've completed it.
+
+![My certificate](https://i.gyazo.com/2eee0a89f847fa04d80daa23ad2a7600.png)
+
+*8 thumbs up*
