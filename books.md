@@ -5,7 +5,7 @@ Its a few years old (2015) so some of the "in the future" stuff is the present n
 
 *7 thumbs up*
 
-# Managing Humans: Biting and Humorous Tales of a Software Engineering Manager* by Michael Lopp 27/06/19
+# Managing Humans: Biting and Humorous Tales of a Software Engineering Manager by Michael Lopp 27/06/19
 His style didn't gel with me. Worst offenders to me were he labels _everyone_ (person A is a Chatty Patty, person B is a Translator Tim), he spent a paragraph explaining without sarcasm how he judges resumes _by their fonts_, and spent and an _entire chapter_ describing how he gets into "the zone" and that coworkers (and loved ones) should rightly expect an aggressive reaction if they interrupt.
 
 Positive messages were if you don't follow up on things you say you'll do you'll erode your credibility, listen carefully to people's concerns especially if they're panicked and babbling and try to treat any change as an opportunity, and it's not overly long
@@ -162,3 +162,11 @@ It took me 125 days start to finish and about 117 hours, there's an exam but it'
 ![My certificate](https://i.gyazo.com/2eee0a89f847fa04d80daa23ad2a7600.png)
 
 *8 thumbs up*
+
+# Traction by Gino Wickman 26/01/20
+
+Descibes a series of processes that it calls the EOS (Entrepreneurial Operating System), a system that we are assured will result in growth and success for your business. While it has some very good advice the book doesn't present (to me) a lot of new insights, however it has great value providing a common process and language (with many, many acronyms) so that all members of a team (who have also read the book) routinely know what to expect amd whats expected of them.
+
+Sometimes the book uses a page of text to describe what it successfully did in thr first sentence, I ended up having to re-read pages at a time when this happened because the remainder of the page didnt sink in first time around. I think I'll have to re-read the book to cement thr acronyms in my memory. It cites only US SMEs as examples of the processes success which makes me wonder how or if it's been applied to software development.
+
+*7 thumbs up*
