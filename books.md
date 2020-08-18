@@ -171,7 +171,7 @@ Sometimes the book uses a page of text to describe what it successfully did in t
 
 *7 thumbs up*
 
-# CLR via C# by Jeffrey Richter
+# CLR via C# by Jeffrey Richter 20/03/20
 
 # Refactoring: Improving the Design of Existing Code by Martin Fowler 19/05/20
 
