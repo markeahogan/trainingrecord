@@ -170,3 +170,13 @@ Descibes a series of processes that it calls the EOS (Entrepreneurial Operating 
 Sometimes the book uses a page of text to describe what it successfully did in thr first sentence, I ended up having to re-read pages at a time when this happened because the remainder of the page didnt sink in first time around. I think I'll have to re-read the book to cement thr acronyms in my memory. It cites only US SMEs as examples of the processes success which makes me wonder how or if it's been applied to software development.
 
 *7 thumbs up*
+
+# CLR via C# by Jeffrey Richter
+
+# Refactoring: Improving the Design of Existing Code by Martin Fowler
+
+# Mastering Regular Expressions by Jeffrey Friedl 03/08/20
+
+# How To Write Unmaintainable Code by Roedy Green 07/08/20
+
+# The Subtle Art of Not Giving a F\*ck by Mark manson 17/08/20
