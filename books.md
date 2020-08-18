@@ -173,10 +173,10 @@ Sometimes the book uses a page of text to describe what it successfully did in t
 
 # CLR via C# by Jeffrey Richter
 
-# Refactoring: Improving the Design of Existing Code by Martin Fowler
+# Refactoring: Improving the Design of Existing Code by Martin Fowler 19/05/20
 
 # Mastering Regular Expressions by Jeffrey Friedl 03/08/20
 
 # How To Write Unmaintainable Code by Roedy Green 07/08/20
 
-# The Subtle Art of Not Giving a F\*ck by Mark manson 17/08/20
+# The Subtle Art of Not Giving a F\*ck by Mark Manson 17/08/20
