@@ -180,3 +180,12 @@ Sometimes the book uses a page of text to describe what it successfully did in t
 # How To Write Unmaintainable Code by Roedy Green 07/08/20
 
 # The Subtle Art of Not Giving a F\*ck by Mark Manson 17/08/20
+
+# A Philosophy of Software Design by John Ousterhout 17/09/20
+https://www.amazon.co.uk/Philosophy-Software-Design-John-Ousterhout/dp/1732102201
+
+A decent set of guidelines that gives a high level advice on reducing complexiity in code, interestingly it makes cases _against_ some popular software development trends that have become a de facto standard, such as self documenting code, TDD and small methods. There are too few code samples and at least a third of the book is about writing comments, but there are many fundamental truths in there as well a good list of "Red Flags" that indicate code may me more complex than it needs to be, and it promotes the idea of being in technical credit rather than technical debt, it's also quite a quick read.
+
+I read this one as it was recommended as an alternative to Uncle Bob's Clean Code, but in my opinion it doesn't come close to the detail Clean Code provides and its practices dont reflect the current development landscape. It's a decent book, and good to read an alternative opinion of what clean code looks like, but it's no where near a replacement and that has coloured my opinion of the book.
+
+*5 thumbs up*
