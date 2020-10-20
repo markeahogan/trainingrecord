@@ -181,7 +181,7 @@ Sometimes the book uses a page of text to describe what it successfully did in t
 
 # The Subtle Art of Not Giving a F\*ck by Mark Manson 17/08/20
 
-# A Philosophy of Software Design by John Ousterhout 17/09/20
+# A Philosophy of Software Design by John Ousterhout 17/10/20
 https://www.amazon.co.uk/Philosophy-Software-Design-John-Ousterhout/dp/1732102201
 
 A decent set of guidelines that gives a high level advice on reducing complexiity in code, interestingly it makes cases _against_ some popular software development trends that have become a de facto standard, such as self documenting code, TDD and small methods. There are too few code samples and at least a third of the book is about writing comments, but there are many fundamental truths in there as well a good list of "Red Flags" that indicate code may me more complex than it needs to be, and it promotes the idea of being in technical credit rather than technical debt, it's also quite a quick read.
