@@ -189,3 +189,32 @@ A decent set of guidelines that gives a high level advice on reducing complexiit
 I read this one as it was recommended as an alternative to Uncle Bob's Clean Code, but in my opinion it doesn't come close to the detail Clean Code provides and its practices dont reflect the current development landscape. It's a decent book, and good to read an alternative opinion of what clean code looks like, but it's no where near a replacement and that has coloured my opinion of the book.
 
 *5 thumbs up*
+
+# The Art of readable Code by Dustin Boswell and Trevor Foucher 07/03/20
+https://www.amazon.co.uk/Art-Readable-Code-Dustin-Boswell/dp/0596802293
+
+It's nicely laid out and well paced (less than 200 pages). It starts with superficial changes to improve readability and builds to more profound refactors with the occasional anecdote and some self-deprecation, and it includes some performance techniques that don't compromise readability I'll definitely remember. Two questional bits of advice I'm still pondering over were:
+###### Replacing iterating while loops with for
+```javascript
+i=0;
+while(true){
+  if(someCondition) break;
+  i++;
+}
+```
+becomes
+```javascript
+for(i=0;true;i++){
+  if(someCondition) break;
+}
+```
+###### Using empty blocks instead of negating 'or' conditions
+```javascript
+if(documentAdmin){
+}else if (documentOwner){
+}else{
+  unauthorized();
+  return;
+}
+// the authorized code
+```
