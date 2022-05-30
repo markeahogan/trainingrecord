@@ -176,6 +176,11 @@ Sometimes the book uses a page of text to describe what it successfully did in t
 # Refactoring: Improving the Design of Existing Code by Martin Fowler 19/05/20
 
 # Mastering Regular Expressions by Jeffrey Friedl 03/08/20
+https://www.amazon.co.uk/Mastering-Regular-Expressions-Nutshell-Handbooks/dp/0596002890
+
+I use the teachings of this book often, great resource for Regex
+
+*9 thumbs up*
 
 # How To Write Unmaintainable Code by Roedy Green 07/08/20
 
@@ -218,3 +223,14 @@ if(documentAdmin){
 }
 // the authorized code
 ```
+
+# Game Engine Architecture, Third Edition by Jason Gregory 29/05/22
+https://www.amazon.co.uk/Engine-Architecture-Third-Jason-Gregory/dp/1138035459
+
+A massive book that covers the broad range of topics that cover game engine creation, starting from chip layouts and workings and gradually building up to interpretted scripting languages. 
+
+In a way it's not the sort of book you'll nessecarily learn/take anything practical from, the book has a few code samples but mostly covers the concepts, logic and reasonings behind how the systems are developed and communicate with each other, the code samples are mostly there to help support the concepts. Taken as a book that tells you the current(ish) state of AAA game engine developments its very interesting and provides a lot of insight.
+
+The book has many tidbits about the inner workings of Naughty Dog's engine that powers the 'Uncharted' and 'The Last Of Us' serieses which are interesting to read, partly because some of the patterns are very familiar to working in Unity which is encouraging. 
+
+*8 thumbs up*
