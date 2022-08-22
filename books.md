@@ -234,3 +234,7 @@ In a way it's not the sort of book you'll nessecarily learn/take anything practi
 The book has many tidbits about the inner workings of Naughty Dog's engine that powers the 'Uncharted' and 'The Last Of Us' serieses which are interesting to read, partly because some of the patterns are very familiar to working in Unity which is encouraging. 
 
 *8 thumbs up*
+
+# Introduction to the Universal Render Pipeline for advanced Unity creators 20/08/22
+
+I enjoyed the book, despite having used URP in production since v7.x this book taught me a good number of things I didn't but should have known. The PDF format looks nice but does make it hard to read compared to proper ebook formats.
