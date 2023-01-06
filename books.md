@@ -238,3 +238,7 @@ The book has many tidbits about the inner workings of Naughty Dog's engine that 
 # Introduction to the Universal Render Pipeline for advanced Unity creators 20/08/22
 
 I enjoyed the book, despite having used URP in production since v7.x this book taught me a good number of things I didn't but should have known. The PDF format looks nice but does make it hard to read compared to proper ebook formats.
+
+# Unity Shaders Bible 21/12/22
+
+# User interface design and implementation in Unity 02/01/23
