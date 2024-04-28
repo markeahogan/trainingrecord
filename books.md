@@ -243,6 +243,6 @@ I enjoyed the book, despite having used URP in production since v7.x this book t
 
 # User interface design and implementation in Unity 02/01/23
 
-# Unity Game Designers Playboom 28/04/24
+# Unity Game Designers Playbook 28/04/24
 
 Book covers a substantial breadth of Unity functionality without go8ng too deep into coding. I found it to be a nice reminder of the wealth of tools Unity provides. Its has lots of example images from successful games made with Unity which were inspiring. At about 100 pages long I would say worth a read as even if you don't expect to gain much, you might gain a little.
